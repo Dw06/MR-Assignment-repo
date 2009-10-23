@@ -1,0 +1,16 @@
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\Documents and Settings\David\Desktop\MR\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Properties.Resources.resources
+I:\Developing\visual studio projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.csproj.GenerateResource.Cache

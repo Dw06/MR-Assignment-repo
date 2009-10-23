@@ -1,0 +1,22 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 17.10.2009 13:04:13
+
+#
+# object Box01
+#
+
+v  -3.1250 -2.2097 2.2097
+v  -3.1250 2.2097 -2.2097
+v  3.1250 2.2097 -2.2097
+v  3.1250 -2.2097 2.2097
+v  0.0000 4.4194 4.4194
+# 5 vertices
+
+g Box01
+f 1 2 3 4 
+f 1 4 5 
+f 4 3 5 
+f 3 2 5 
+f 2 1 5 
+# 1 polygons - 4 triangles
+
